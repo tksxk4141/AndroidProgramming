@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="JungHoon">Lee JungHoon/1791078/Computer Engineering/Hansung University</string>
+    <string name="input_your_name">Input your name.</string>
+    <string name="Dog">Dog</string>
+    <string name="Cat">Cat</string>
+    <string name="button">Button</string>
+</resources>

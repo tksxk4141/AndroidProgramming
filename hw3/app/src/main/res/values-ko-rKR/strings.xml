@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="input_your_name">이름을 입력하세요.</string>
+    <string name="Dog">강아지</string>
+    <string name="Cat">고양이</string>
+    <string name="button">버튼</string>
+    <string name="JungHoon">이정훈/1791078/컴퓨터공학/한성대학교</string>
+</resources>
